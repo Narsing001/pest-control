@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pest-control/static/css/main.75d4fb5c.css",
+    "main.js": "/pest-control/static/js/main.f1fce5f6.js",
+    "static/js/787.fdc795f7.chunk.js": "/pest-control/static/js/787.fdc795f7.chunk.js",
+    "static/media/IMG6.webp": "/pest-control/static/media/IMG6.b4043caecca9a7b0345b.webp",
+    "static/media/IMG5.webp": "/pest-control/static/media/IMG5.b4606441688228712a48.webp",
+    "static/media/IMG4.webp": "/pest-control/static/media/IMG4.199739f28a7878a4c6b2.webp",
+    "static/media/Rodent.webp": "/pest-control/static/media/Rodent.e7687667604cdc09948c.webp",
+    "static/media/bootstrap-icons.woff?": "/pest-control/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/pest-control/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/Bed Bugs.webp": "/pest-control/static/media/Bed Bugs.c90e5c978f8b1aa52651.webp",
+    "static/media/spider.webp": "/pest-control/static/media/spider.dbf9b89a78f2781e5e8b.webp",
+    "static/media/imgthumbnail.webp": "/pest-control/static/media/imgthumbnail.cf769b3f99b51f05b04e.webp",
+    "static/media/weed.webp": "/pest-control/static/media/weed.faf0c818c34824755a17.webp",
+    "static/media/logo.webp": "/pest-control/static/media/logo.23cb0f60c8e6c6c8f901.webp",
+    "static/media/Termites.webp": "/pest-control/static/media/Termites.0bf9b994e83c0a153656.webp",
+    "static/media/flies.webp": "/pest-control/static/media/flies.fe2ec4c88f7407673aa3.webp",
+    "static/media/imgthumbnail2.webp": "/pest-control/static/media/imgthumbnail2.91d4bfe1290e1bffcbf5.webp",
+    "static/media/ant.webp": "/pest-control/static/media/ant.eb2ca6f858ec2b430fcb.webp",
+    "static/media/Cockroaches.webp": "/pest-control/static/media/Cockroaches.0a5ddb74fa8e211685db.webp",
+    "static/media/bird.webp": "/pest-control/static/media/bird.4b6e1d8f079298f3ec31.webp",
+    "index.html": "/pest-control/index.html",
+    "main.75d4fb5c.css.map": "/pest-control/static/css/main.75d4fb5c.css.map",
+    "main.f1fce5f6.js.map": "/pest-control/static/js/main.f1fce5f6.js.map",
+    "787.fdc795f7.chunk.js.map": "/pest-control/static/js/787.fdc795f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d4fb5c.css",
+    "static/js/main.f1fce5f6.js"
+  ]
+}
